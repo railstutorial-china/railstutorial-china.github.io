@@ -6,16 +6,16 @@
     <div class="dropdown">
         <button type="button" class="btn btn-lg btn-danger dropdown-toggle" id="{{ include.button_id }}" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="icon-basket"></i>购买本书</button>
         <div class="dropdown-menu" aria-labelledby="{{ include.button_id }}">
-            <a class="dropdown-item" href="http://www.ituring.com.cn/book/2035" title="购买实体纸书" target="_blank">实体纸书&nbsp;&nbsp;&nbsp;&nbsp;<i class="icon-book"></i></a>
+            <a class="dropdown-item" href="{{ site.fastspring_url }}{% if site.coupon %}?coupon={{ site.coupon }}{% endif %}" title="购买电子书" target="_blank">购买电子书</a>
             <div class="dropdown-divider"></div>
-            <a class="dropdown-item" href="{{ site.fastspring_url }}{% if site.coupon %}?coupon={{ site.coupon }}{% endif %}" title="到 FastSpring 购买电子书" target="_blank">FastSpring <i class="icon-alipay"></i> <i class="icon-paypal"></i></a>
+            <a class="dropdown-item" href="http://www.ituring.com.cn/book/2035" title="购买纸质书" target="_blank">购买纸质书</a>
             {% comment %}
             <div class="dropdown-divider"></div>
             <a class="dropdown-item" href="{{ site.ituring_url }}" title="到图灵社区购买电子书" target="_blank">图灵社区&nbsp;&nbsp;&nbsp;&nbsp;<i class="icon-alipay"></i></a>
             <a class="dropdown-item" href="{{ site.leanpub_url }}{% if site.coupon %}/c/{{ site.coupon }}{% endif %}" title="到 Leanpub 购买电子书" target="_blank">Leanpub&nbsp;&nbsp;&nbsp;&nbsp;<i class="icon-paypal"></i></a>
             {% endcomment %}
             <div class="dropdown-divider"></div>
-            <a class="dropdown-item" href="{{ site.baseurl }}/education/" title="申请教育优惠">教育优惠&nbsp;&nbsp;&nbsp;&nbsp;<i class="icon-graduation-cap"></i></a>
+            <a class="dropdown-item" href="{{ site.baseurl }}/education/" title="申请教育优惠">申请教育优惠</a>
         </div>
     </div>
     <div class="sample-downloader">
