@@ -24,7 +24,7 @@ body_class: home-page
 
         {% include actions.html button_id="purchase-dropdown-main" %}
 
-        <p class="redeem-link"><a href="{{site.baseurl}}/redeem/" title="换购电子书">纸质书五折换购电子书</a></p>
+        <p class="rev-info">电子书更新于 {{ site.revdate | date: '%Y 年 %-m 月 %-d 日' }}，详情参见<a href="{{site.baseurl}}/changelog/" title="更新日志">更新日志</a></p>
 
     </div>
 </section>
