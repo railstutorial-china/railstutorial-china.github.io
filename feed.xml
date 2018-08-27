@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+  >
+  <channel>
+    <title xml:lang="en">Ruby on Rails 教程</title>
+    <atom:link type="application/atom+xml" href="http://railstutorial-china.org/feed.xml" rel="self"/>
+    <link>http://railstutorial-china.org</link>
+    <pubDate>Mon, 27 Aug 2018 20:50:13 +0800</pubDate>
+    <lastBuildDate>Mon, 27 Aug 2018 20:50:13 +0800</lastBuildDate>
+    <language>zh-CN</language>
+    <generator>Jekyll v3.4.3</generator>
+    <description></description>
+    
+    <item>
+      <title>《Ruby on Rails 教程（原书第 4 版）》发布</title>
+      <link>http://railstutorial-china.org/blog/2016/06/fourth-edition-launched/</link>
+      <pubDate>Wed, 29 Jun 2016 00:00:00 +0800</pubDate>
+      <dc:creator></dc:creator>
+      
+      
+      <guid isPermaLink="true">http://railstutorial-china.org/blog/2016/06/fourth-edition-launched/</guid>
+      <description>&lt;p&gt;经过一个多月的修订，《Ruby on Rails Tutorial, 4th edition》发布了（&lt;a href=&quot;http://news.learnenough.com/rails-5-edition-of-rails-tutorial&quot; title=&quot;发布记&quot;&gt;发布记&lt;/a&gt;）。在原作者修订的过程中，我一直在跟进翻译，因此，在英文版发布几个小时之后，我高兴地宣布：&lt;strong&gt;《Ruby on Rails 教程（原书第 4 版）》发布&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;p&gt;第 4 版与第 3 版的主要变化有：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Rails 版本由 4.2 升级到 5；&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;rake&lt;/code&gt; 命令全部统一为 &lt;code class=&quot;highlighter-rouge&quot;&gt;rails&lt;/code&gt; 命令；&lt;/li&gt;
+  &lt;li&gt;12 章变成了 14 章（把较长的两章分拆了）；&lt;/li&gt;
+  &lt;li&gt;增加了大量练习，而且放在各小节内；&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;第 4 版的电子书从今天开始销售，上线首周&lt;strong&gt;八折&lt;/strong&gt;优惠，请点击下述两个链接购买：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&amp;lt;?coupon=4thLaunchWeek&amp;gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leanpub.com/rails-tutorial-cn/c/4thLaunchWeek&quot; title=&quot;https://leanpub.com/rails-tutorial-cn/c/4thLaunchWeek&quot;&gt;https://leanpub.com/rails-tutorial-cn/c/4thLaunchWeek&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;英文版需要重新购买，但是我决定：中文版老读者可以免费升级到第 4 版。如果你之前购买过第 3 版，请查收邮件，里面有第 4 版的下载链接。&lt;/p&gt;
+
+&lt;p&gt;这是我开始翻译《Ruby on Rails 教程》以来的第四个版本，在此过程中得到了众多读者的大力支持，再次感谢你们！&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RailsConf 2016 特别优惠</title>
+      <link>http://railstutorial-china.org/blog/2016/04/railsconf-2016-discount/</link>
+      <pubDate>Fri, 29 Apr 2016 00:00:00 +0800</pubDate>
+      <dc:creator></dc:creator>
+      
+      
+      <guid isPermaLink="true">http://railstutorial-china.org/blog/2016/04/railsconf-2016-discount/</guid>
+      <description>&lt;p&gt;&lt;a href=&quot;http://railsconf.com/&quot; title=&quot;RailsConf 2016&quot;&gt;RailsConf 2016&lt;/a&gt; 将于当地时间 5 月 4 日至 6 日在美国堪萨斯城举办，在此次大会召开期间，加上五一劳动节，我所翻译的 Ruby/Rails 相关的几本书，以及我自己写的一本关于 Jekyll 的书，&lt;strong&gt;五折优惠&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;优惠起始时间&lt;/strong&gt;：2016 年 04 月 29 日 00:00 ~ 05 月 07 日 23:59 UTC+8&lt;br /&gt;
+&lt;strong&gt;优惠幅度&lt;/strong&gt;：五折&lt;br /&gt;
+&lt;strong&gt;购买方式&lt;/strong&gt;：点击以下链接即可&lt;/p&gt;
+
+&lt;table class=&quot;table&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;书名&lt;/th&gt;
+      &lt;th&gt;支付宝&lt;/th&gt;
+      &lt;th&gt;PayPal&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;《Ruby on Rails 教程（原书第 3 版）》&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://selfstore.io/products/189?coupon=RailsConf2016&quot; title=&quot;点击购买&quot;&gt;支付宝&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://leanpub.com/rails-tutorial-cn/c/RailsConf2016&quot; title=&quot;点击购买&quot;&gt;PayPal&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;《Jekyll 小书》&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://selfstore.io/products/184?coupon=RailsConf2016&quot; title=&quot;点击购买&quot;&gt;支付宝&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://leanpub.com/jekyll-little-book/c/RailsConf2016&quot; title=&quot;点击购买&quot;&gt;PayPal&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;《Rails 指南》&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://selfstore.io/products/13?coupon=RailsConf2016&quot; title=&quot;点击购买&quot;&gt;支付宝&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://leanpub.com/rails-guides-cn/c/RailsConf2016&quot; title=&quot;点击购买&quot;&gt;PayPal&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;《Rails 应用部署之道》&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://selfstore.io/products/66?coupon=RailsConf2016&quot; title=&quot;点击购买&quot;&gt;支付宝&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://leanpub.com/deploying_rails_applications-cn/c/RailsConf2016&quot; title=&quot;点击购买&quot;&gt;PayPal&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;《使用 RSpec 测试 Rails 程序》&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://selfstore.io/products/3?coupon=RailsConf2016&quot; title=&quot;点击购买&quot;&gt;支付宝&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://leanpub.com/everydayrailsrspec-cn/c/RailsConf2016&quot; title=&quot;点击购买&quot;&gt;PayPal&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RubyConf China 2015 特别优惠</title>
+      <link>http://railstutorial-china.org/blog/2015/10/rubyconf-china-2015-discount/</link>
+      <pubDate>Tue, 06 Oct 2015 00:00:00 +0800</pubDate>
+      <dc:creator></dc:creator>
+      
+      
+      <guid isPermaLink="true">http://railstutorial-china.org/blog/2015/10/rubyconf-china-2015-discount/</guid>
+      <description>&lt;p&gt;&lt;a href=&quot;http://rubyconfchina.org/&quot; title=&quot;RubyConf China 2015&quot;&gt;RubyConf China 2015&lt;/a&gt; 将于 10 月 10 日至 11 日在深圳举办，在此次大会召开期间，我所翻译的 Ruby/Rails 相关的几本书，以及我自己写的一本关于 Jekyll 的书，&lt;strong&gt;五折优惠&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;优惠起始时间&lt;/strong&gt;：2015 年 10 月 10 日 00:00 ~ 10 月 11 日 23:59&lt;br /&gt;
+&lt;strong&gt;优惠幅度&lt;/strong&gt;：五折&lt;br /&gt;
+&lt;strong&gt;购买方式&lt;/strong&gt;：届时，点击以下链接即可&lt;/p&gt;
+
+&lt;table class=&quot;table&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;书名&lt;/th&gt;
+      &lt;th&gt;支付宝&lt;/th&gt;
+      &lt;th&gt;PayPal&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;《Ruby on Rails 教程》&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://selfstore.io/products/189?coupon=RubyConfChina2015&quot; title=&quot;支付宝&quot;&gt;支付宝&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://leanpub.com/rails-tutorial-cn/c/RubyConfChina2015&quot; title=&quot;PayPal&quot;&gt;PayPal&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;《Rails 应用部署之道》&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://selfstore.io/products/66?coupon=RubyConfChina2015&quot; title=&quot;支付宝&quot;&gt;支付宝&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://leanpub.com/deploying_rails_applications-cn/c/RubyConfChina2015&quot; title=&quot;PayPal&quot;&gt;PayPal&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;《使用 RSpec 测试 Rails 程序》&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://selfstore.io/products/3?coupon=RubyConfChina2015&quot; title=&quot;支付宝&quot;&gt;支付宝&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://leanpub.com/everydayrailsrspec-cn/c/RubyConfChina2015&quot; title=&quot;PayPal&quot;&gt;PayPal&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;《Rails 指南》&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://selfstore.io/products/13?coupon=RubyConfChina2015&quot; title=&quot;支付宝&quot;&gt;支付宝&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://leanpub.com/rails-guides-cn/c/RubyConfChina2015&quot; title=&quot;PayPal&quot;&gt;PayPal&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;《Jekyll 小书》&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://selfstore.io/products/184?coupon=RubyConfChina2015&quot; title=&quot;支付宝&quot;&gt;支付宝&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://leanpub.com/jekyll-little-book/c/RubyConfChina2015&quot; title=&quot;PayPal&quot;&gt;PayPal&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>教育优惠</title>
+      <link>http://railstutorial-china.org/blog/2014/12/education/</link>
+      <pubDate>Tue, 23 Dec 2014 17:10:00 +0800</pubDate>
+      <dc:creator></dc:creator>
+      
+      
+      <guid isPermaLink="true">http://railstutorial-china.org/blog/2014/12/education/</guid>
+      <description>&lt;div class=&quot;alert alert-info&quot;&gt;
+
+  &lt;p&gt;&lt;strong&gt;2017 年 3 月 9 日更新&lt;/strong&gt;&lt;/p&gt;
+
+  &lt;p&gt;以“&lt;a href=&quot;/education/&quot; title=&quot;教育优惠&quot;&gt;教育优惠&lt;/a&gt;”页面的信息为准。&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;为了让更多的学生接触先进的 Web 开发技术，减轻在校生的负担，今天起，《Ruby on Rails 教程》为在校生提供特殊的“教育优惠”：凡在校生购买《Ruby on Rails 教程》，&lt;strong&gt;享七折优惠&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;p&gt;“教育优惠”的实施细节如下：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;购买前，把你有效的在校证明（初中，高中，大学）通过&lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#097;&amp;#110;&amp;#100;&amp;#111;&amp;#114;&amp;#046;&amp;#099;&amp;#104;&amp;#101;&amp;#110;&amp;#046;&amp;#050;&amp;#055;&amp;#064;&amp;#103;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&quot; title=&quot;电子邮件&quot;&gt;电子邮件&lt;/a&gt;发给我，并告诉我你想使用&lt;strong&gt;支付宝还是 PayPal&lt;/strong&gt; 支付；如果可能的话，请介绍一下你自己，比如姓名、就读学校、所学专业和年级等（有些照片拍得很模糊，从学生证或校园卡上看不清这些信息）；&lt;/li&gt;
+  &lt;li&gt;经我确认后，向你提供七折优惠码；&lt;/li&gt;
+  &lt;li&gt;你使用优惠码，以原价的七折购买《Ruby on Rails 教程》。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;说明：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;这是一项针对在校生的优惠措施，请勿滥用；&lt;/li&gt;
+  &lt;li&gt;我会通过我认为合理的方式判断你是否为在校生；&lt;/li&gt;
+  &lt;li&gt;一般情况下，如果 48 小时内我没有回复你的邮件，说明你提供的证明无效；&lt;/li&gt;
+  &lt;li&gt;你发送给我的证明文件我不会保存，或泄露给他人——阅后即焚；&lt;/li&gt;
+  &lt;li&gt;以前购买过本书的读者，如果是在校生，不退差价；&lt;/li&gt;
+  &lt;li&gt;如果购买过第 2 版，作为在校生再购买第 3 版，仍只享老读者的五折优惠，没有折上折；&lt;/li&gt;
+  &lt;li&gt;这是一项长期优惠措施，不受时间限制，一直进行下去，除非明确通知此项优惠失效；&lt;/li&gt;
+  &lt;li&gt;安道保留最终解释权。&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>第 3 版正式发布</title>
+      <link>http://railstutorial-china.org/blog/2014/11/third-edition/</link>
+      <pubDate>Mon, 17 Nov 2014 20:10:00 +0800</pubDate>
+      <dc:creator></dc:creator>
+      
+      
+      <guid isPermaLink="true">http://railstutorial-china.org/blog/2014/11/third-edition/</guid>
+      <description>&lt;p&gt;历时一个半月，今天《Ruby on Rails 教程》（原书第 3 版）初译结束了。在接下来的几天，我会校对全书，并做统筹调整。届时会发布 1.0.0 版。&lt;/p&gt;
+
+&lt;p&gt;第 3 版和第 2 版相比，变动的内容很多，最大的变化是由测试“驱动”开发变成测试“辅助”开发。而且在第 2 版的基础上增加了一些内容，详情参阅&lt;a href=&quot;http://railstutorial-china.org/blog/original-third-edition-released.html&quot; title=&quot;之前的文章&quot;&gt;之前的文章&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;现在，你可以通过 &lt;a href=&quot;https://selfstore.io/products/189&quot; title=&quot;SelfStore&quot;&gt;SelfStore&lt;/a&gt; 或者 &lt;a href=&quot;https://sellfy.com/p/Lw8D&quot; title=&quot;Sellfy&quot;&gt;Sellfy&lt;/a&gt; 购买第 3 版的电子书了。&lt;/p&gt;
+
+&lt;p class=&quot;text-center&quot;&gt;&lt;a class=&quot;btn btn-lg btn-warning&quot; href=&quot;https://selfstore.io/products/189&quot; title=&quot;去 SelfStore 购买电子书&quot;&gt;去 SelfStore 购买&lt;/a&gt;    或    &lt;a class=&quot;btn btn-lg btn-warning&quot; href=&quot;https://sellfy.com/p/Lw8D&quot; title=&quot;去 Sellfy 购买电子书&quot;&gt;去 Sellfy 购买&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>关于 Heroku Cedar-14 的说明</title>
+      <link>http://railstutorial-china.org/blog/2014/11/heroku-cedar-14/</link>
+      <pubDate>Wed, 05 Nov 2014 14:10:00 +0800</pubDate>
+      <dc:creator></dc:creator>
+      
+      
+      <guid isPermaLink="true">http://railstutorial-china.org/blog/2014/11/heroku-cedar-14/</guid>
+      <description>&lt;p&gt;Heroku 于近日&lt;a href=&quot;https://blog.heroku.com/archives/2014/11/4/cedar_14_now_generally_available&quot; title=&quot;升级了低层组件&quot;&gt;升级了低层组件&lt;/a&gt;，如果你使用 &lt;a href=&quot;http://c9.io/&quot; title=&quot;Cloud9&quot;&gt;Cloud9&lt;/a&gt; 可能会受到影响。当然，如果你在自己的设备中开发也可能有影响。如果部署到 Heroku 时遇到以下错误，请按照本文的方法升级 Ruby 到 2.1.4 版。&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;local/Cloud9 =&amp;gt; Your Ruby version is 2.1.1, but your Gemfile specified 2.1.4
+
+Heroku =&amp;gt; Only the most recent version of Ruby 2.1 is supported on Cedar-14
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;为了本书读者着想，原版作者 Michael 已经联系 Cloud9，希望能把 Rails 教程使用的工作空间默认使用的 Ruby 升级到 2.1.4。在 Cloud9 升级之前，你可以自行升级。Cloud9 使用 &lt;a href=&quot;http://rvm.io/&quot; title=&quot;rvm&quot;&gt;rvm&lt;/a&gt; 管理 Ruby，所以可以在 Cloud9 的命令行中执行下面的命令升级 Ruby：&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ rvm install 2.1.4
+$ rvm use 2.1.4
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;如果编译 Ruby 的时间过长（超过 20 分钟），请换用下面的命令（&lt;a href=&quot;http://stackoverflow.com/questions/26069506/ruby-2-1-3-installation-in-ubuntu-14-04-1-hang/26151026#26151026&quot; title=&quot;via&quot;&gt;via&lt;/a&gt;）：&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ rvm install 2.1.4 -- --with-setjmp-type=setjmp
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;然后把 &lt;code class=&quot;highlighter-rouge&quot;&gt;Gemfile&lt;/code&gt; 中的 Ruby 版本改为 &lt;code class=&quot;highlighter-rouge&quot;&gt;2.1.4&lt;/code&gt;，再重新部署：&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ git commit -am &quot;Update Ruby version&quot;
+$ git push heroku
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;如果你在本地设备中使用 &lt;code class=&quot;highlighter-rouge&quot;&gt;rbenv&lt;/code&gt;，可以使用下列命令升级 Ruby：&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ cd ~/.rbenv/plugins/ruby-build/
+$ git pull
+$ rbenv install 2.1.4
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;同样，如果编译时间过长，请换用下面的命令安装：&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ RUBY_CONFIGURE_OPTS=&quot;--with-setjmp-type=setjmp&quot; rbenv install 2.1.4
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;（本文编译自 &lt;a href=&quot;http://news.railstutorial.org/heroku-update/&quot; title=&quot;Rails Tutorial 的博客&quot;&gt;Rails Tutorial 的博客&lt;/a&gt;。）&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>原书第三版简体中文版接受预定</title>
+      <link>http://railstutorial-china.org/blog/2014/10/third-edition-preorder/</link>
+      <pubDate>Fri, 24 Oct 2014 18:00:00 +0800</pubDate>
+      <dc:creator></dc:creator>
+      
+      
+      <guid isPermaLink="true">http://railstutorial-china.org/blog/2014/10/third-edition-preorder/</guid>
+      <description>&lt;p&gt;在这个程序员的节日里，很高兴的通知您，《Ruby on Rails 教程》（原书第 3 版）简体中文版开始接受预定。在全书译完之前您可以通过含有“9 折”优惠码的链接购买本书：&lt;a href=&quot;https://selfstore.io/products/189?coupon=PREORDER&quot; title=&quot;https://selfstore.io/products/189?coupon=PREORDER&quot;&gt;https://selfstore.io/products/189?coupon=PREORDER&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;目前，前 6 章已经翻译完，后续章节按章发布——译完一章，发布一章。现在购买，后续更新都会通过邮件通知您。&lt;/p&gt;
+
+&lt;p&gt;如果您购买过之前的版本，想继续支持本书，购买第 3 版，我会为您提供“5 折”优惠。具体操作方法请查看您的邮箱。&lt;/p&gt;
+
+&lt;p&gt;还等什么，现在购买周末就能学习了，下周一身边的人就要对您刮目相看了。&lt;/p&gt;
+
+&lt;p class=&quot;text-center&quot;&gt;&lt;a class=&quot;btn btn-lg btn-warning&quot; href=&quot;https://selfstore.io/products/189&quot; title=&quot;购买电子书&quot;&gt;购买电子书&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>英文原书第三版正式发布</title>
+      <link>http://railstutorial-china.org/blog/2014/10/original-third-edition-released/</link>
+      <pubDate>Thu, 16 Oct 2014 16:40:00 +0800</pubDate>
+      <dc:creator></dc:creator>
+      
+      
+      <guid isPermaLink="true">http://railstutorial-china.org/blog/2014/10/original-third-edition-released/</guid>
+      <description>&lt;p&gt;《Ruby on Rails Tutorial》（第三版）英文原书正式发布。简体中文版正在紧急翻译中。最新消息，请关注这个博客。&lt;/p&gt;
+
+&lt;p&gt;第三版和之前的版本有以下变化：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;使用云端集成开发环境&lt;/strong&gt;。在这个环境中提供了专为本书配置的环境。使用 Cloud9 IDE 可以避免前一版安装和配置本地环境遇到的各种问题。&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;完全使用 Rails 默认开发工具栈&lt;/strong&gt;，避免一些额外的配置。RSpec 换成了 MiniTest，以便更好地介绍测试技术。&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;轻量级测试策略&lt;/strong&gt;。第三版仍会介绍测试驱动开发，但使用的策略更保守，不再于编写代码之前先编写测试，然是在写完应用代码之后再编写集成测试。&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;完全重写介绍登录和认证功能的章节&lt;/strong&gt;。第 8 章完全重写，介绍常用的三种登录方式：浏览器关闭后清除会话，自动记住用户，以及提供“记住我”选项，让用户选择是否记住登录状态。&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;新增一节介绍图片上传&lt;/strong&gt;。第 11 章新增一节介绍如何在本书开发的演示应用中上传图片。其中包括客户端和服务器端验证，自动剪裁图片，以及如何在生产环境中使用云端存储服务（Amazon S3）。&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;新增一章介绍账户激活和密码重设，记忆如何在 Rails 应用中发送电子邮件&lt;/strong&gt;。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;简体中文版正在紧急翻译中，现在你可以先购买第二版，等第三版发布后，会为你提供第三版的优惠码。详情参见：&lt;a href=&quot;https://ruby-china.org/topics/21335&quot; title=&quot;https://ruby-china.org/topics/21335&quot;&gt;https://ruby-china.org/topics/21335&lt;/a&gt;。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
