@@ -11,8 +11,8 @@
     <title xml:lang="en">Ruby on Rails 教程</title>
     <atom:link type="application/atom+xml" href="http://railstutorial-china.org/feed.xml" rel="self"/>
     <link>http://railstutorial-china.org</link>
-    <pubDate>Fri, 28 Dec 2018 19:24:33 +0800</pubDate>
-    <lastBuildDate>Fri, 28 Dec 2018 19:24:33 +0800</lastBuildDate>
+    <pubDate>Wed, 20 Mar 2019 21:31:15 +0800</pubDate>
+    <lastBuildDate>Wed, 20 Mar 2019 21:31:15 +0800</lastBuildDate>
     <language>zh-CN</language>
     <generator>Jekyll v3.4.3</generator>
     <description></description>
@@ -40,7 +40,7 @@
 
 &lt;ul&gt;
   &lt;li&gt;&amp;lt;?coupon=4thLaunchWeek&amp;gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://leanpub.com/rails-tutorial-cn/c/4thLaunchWeek&quot; title=&quot;https://leanpub.com/rails-tutorial-cn/c/4thLaunchWeek&quot;&gt;https://leanpub.com/rails-tutorial-cn/c/4thLaunchWeek&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&amp;lt;/c/4thLaunchWeek&amp;gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;英文版需要重新购买，但是我决定：中文版老读者可以免费升级到第 4 版。如果你之前购买过第 3 版，请查收邮件，里面有第 4 版的下载链接。&lt;/p&gt;
